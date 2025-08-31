@@ -8,8 +8,7 @@ function removeEle(nums) {
        k++;
      }
    }
-    //    return k;
-    console.log(k)
+       return k;
 }
 
 removeEle([1,1,2]);
